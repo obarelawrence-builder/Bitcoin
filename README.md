@@ -1,2 +1,2 @@
 # Bitcoin
-where i will do the bitcoin assignments
+The Lighning network bootcamp Jun 8 - June 12
